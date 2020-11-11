@@ -1,0 +1,16 @@
+/**
+* Скрываю корзину
+*/
+
+[data-record-type="706"] {
+    display: none;
+}
+
+
+/* Переопределяю стили открытой корзины */
+
+.t706__body_cartwinshowed {
+    height: auto;
+    min-height: auto;
+    overflow: auto;
+}
